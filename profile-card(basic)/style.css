@@ -1,0 +1,53 @@
+.card {
+    box-shadow: 0 4px 17px 0 rgba(0, 0, 0, 0.4);
+    width:75%;
+    max-height:75%;
+    margin: auto;
+    margin-top:4%;
+    border-radius:24px;
+    text-align: center;
+    background-color:rgb(142, 209, 232);
+}
+  img.staffphoto{
+    border-radius: 50%;
+    margin-top: 5%;
+    box-shadow: 0 4px 17px 0 rgba(0, 0, 0, 0.4);
+    border-width: 1px;
+    height: 200px;
+    width: 200px;
+    border-color: #000;
+  }
+  body{
+    background-color: rgb(8, 159, 210);
+    background-image:url('img-header.jpg');
+  }
+  .designation {
+    color: grey;
+    font-size: 30px;
+  }
+  .docs{
+    font-size: 30px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius:0px 0px 24px 24px;
+  }
+  h1{
+    font-size:5ch;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  
+  
+  
+  
